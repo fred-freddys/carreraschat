@@ -12,6 +12,32 @@
         </random>
     </template>
   </category>
+  <category>
+    <pattern>* carreras hay</pattern>
+    <template>
+        <random>
+          <li>En nuestro mundo, hay carreras para todos los gustos y estilos.</li>
+          <li>Descubre la emoción de la velocidad, donde las carreras estan llenas de adrenalina.</li>
+          <li>Explora la diversidad automovilística, donde puedes disfrutar de las carreras de alto nivel.</li>
+          <li>Desde circuitos elegantes hasta derrapes emocionantes, aquí, las carreras estan para satisfacer a todos los amantes del motor.</li>
+          <li>Bienvenido al universo de la velocidad, donde las carreras existen para desafiar a cualquier piloto intrépido.</li>
+        </random>
+    </template>
+  </category>
+  <category>
+  <pattern>auto clasico</pattern>
+  <template>
+    <random>
+      <li>¿Un auto clásico? ¡Excelente elección! Tal vez un elegante <set>AutoClasico1</set> o un icónico <set>AutoClasico2</set>.</li>
+      <li>Los autos clásicos tienen un encanto único. Imagínate al volante de un <set>AutoClasico3</set> o un <set>AutoClasico4</set>.</li>
+      <li>Sumérgete en la nostalgia con un impresionante <set>AutoClasico5</set> o un impecable <set>AutoClasico6</set>.</li>
+      <li>Los verdaderos conocedores eligen autos clásicos. ¿Qué te parece un <set>AutoClasico7</set> o un distinguido <set>AutoClasico8</set>?</li>
+      <li>Los autos clásicos tienen historias fascinantes. Piensa en conducir un <set>AutoClasico9</set> o un legendario <set>AutoClasico10</set>.</li>
+    </random>
+  </template>
+</category>
 </aiml>
+
+
 
 
