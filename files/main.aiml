@@ -56,6 +56,18 @@
     </random>
   </template>
 </category>
+<category>
+  <pattern>Formula1</pattern>
+  <template>
+    <random>
+      <li>¡Optaste por la élite de las carreras! Imagina pilotar un veloz <set>Formula1Car1</set> o un aerodinámico <set>Formula1Car2</set>.</li>
+      <li>Los autos de Fórmula 1 ofrecen velocidad pura. ¿Qué te parece el rendimiento de un <set>Formula1Car3</set> o la precisión de un <set>Formula1Car4</set>?</li>
+      <li>Prepárate para la velocidad extrema en un impresionante <set>Formula1Car5</set> o siente la potencia de un auténtico <set>Formula1Car6</set>.</li>
+      <li>Los autos de Fórmula 1 representan la cima del rendimiento. ¿Te gustaría conducir un legendario <set>Formula1Car7</set> o un innovador <set>Formula1Car8</set>?</li>
+      <li>Desde las curvas ajustadas hasta las rectas a alta velocidad, los autos de Fórmula 1 son incomparables. Piensa en un fascinante <set>Formula1Car9</set> o un espectacular <set>Formula1Car10</set>.</li>
+    </random>
+  </template>
+</category>
 </aiml>
 
 
