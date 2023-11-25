@@ -32,15 +32,15 @@
         </random>
     </template>
   </category>
-  <category>
+<category>
   <pattern>auto clasico</pattern>
   <template>
     <random>
-      <li>¿Un auto clásico? ¡Excelente elección! Tal vez un elegante <set>AutoClasico1</set> o un icónico <set>AutoClasico2</set>.</li>
-      <li>Los autos clásicos tienen un encanto único. Imagínate al volante de un <set>AutoClasico3</set> o un <set>AutoClasico4</set>.</li>
-      <li>Sumérgete en la nostalgia con un impresionante <set>AutoClasico5</set> o un impecable <set>AutoClasico6</set>.</li>
-      <li>Los verdaderos conocedores eligen autos clásicos. ¿Qué te parece un <set>AutoClasico7</set> o un distinguido <set>AutoClasico8</set>?</li>
-      <li>Los autos clásicos tienen historias fascinantes. Piensa en conducir un <set>AutoClasico9</set> o un legendario <set>AutoClasico10</set>.</li>
+      <li>¿Un auto clásico? ¡Excelente elección! Tal vez un elegante <set>FordClassic</set> o un icónico <set>ChevroletVintage</set>.</li>
+      <li>Los autos clásicos tienen un encanto único. Imagínate al volante de un <set>ClassicMustang</set> de Ford o un <set>BelAir</set> de Chevrolet.</li>
+      <li>Sumérgete en la nostalgia con un impresionante <set>ModelT</set> de Ford o un impecable <set>ImpalaClassic</set> de Chevrolet.</li>
+      <li>Los verdaderos conocedores eligen autos clásicos. ¿Qué te parece un <set>Thunderbird</set> de Ford o un distinguido <set>CorvetteClassic</set> de Chevrolet?</li>
+      <li>Los autos clásicos tienen historias fascinantes. Piensa en conducir un <set>FairlaneVintage</set> de Ford o un legendario <set>ClassicCamaro</set> de Chevrolet.</li>
     </random>
   </template>
 </category>
