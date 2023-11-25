@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="2.0">
-	<!-- insert your AIML categories here -->
+  <category>
+    <pattern>HOLA</pattern>
+    <template>
+        <random>
+          <li>Bienvenido a la pista de velocidad, ¿listo para sentir la adrenalina?</li>
+          <li>¡Saludos amante de la velocidad! Prepárate para una experiencia de carreras única.</li>
+          <li>¡Bienvenido al asfalto! Aquí es donde comienza la verdadera diversión automovilística.</li>
+          <li>¡Hola piloto intrépido! ¿Preparado para dominar la pista?</li>
+          <li>Bienvenido al mundo de la velocidad. ¡Prepárate para desatar la potencia de los motores!</li>
+        </random>
+    </template>
+  </category>
 </aiml>
+
+
