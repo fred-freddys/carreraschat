@@ -24,6 +24,14 @@
         </random>
     </template>
   </category>
+ <category>
+    <pattern>Que opciones de autos hay</pattern>
+    <template>
+        <random>
+          <li>En nuestro garaje virtual encontrarás autos clásicos, deportivos y de Fórmula 1. ¿Cuál de estos emocionantes tipos de autos prefieres?</li>
+        </random>
+    </template>
+  </category>
   <category>
   <pattern>auto clasico</pattern>
   <template>
@@ -33,6 +41,18 @@
       <li>Sumérgete en la nostalgia con un impresionante <set>AutoClasico5</set> o un impecable <set>AutoClasico6</set>.</li>
       <li>Los verdaderos conocedores eligen autos clásicos. ¿Qué te parece un <set>AutoClasico7</set> o un distinguido <set>AutoClasico8</set>?</li>
       <li>Los autos clásicos tienen historias fascinantes. Piensa en conducir un <set>AutoClasico9</set> o un legendario <set>AutoClasico10</set>.</li>
+    </random>
+  </template>
+</category>
+<category>
+  <pattern>auto deportivo</pattern>
+  <template>
+    <random>
+      <li>¡Un carro deportivo! ¡Genial elección! ¿Qué te parece un elegante <set>AutoDeportivo1</set> o un potente <set>AutoDeportivo2</set>?</li>
+      <li>Los carros deportivos te ofrecen velocidad y estilo. Imagina estar al volante de un <set>AutoDeportivo3</set> o un emocionante <set>AutoDeportivo4</set>.</li>
+      <li>La potencia y la elegancia se unen en los carros deportivos. ¿Prefieres un clásico <set>AutoDeportivo5</set> o un moderno <set>AutoDeportivo6</set>?</li>
+      <li>Conquista la pista con un impresionante <set>AutoDeportivo7</set> o vive la emoción de la velocidad en un <set>AutoDeportivo8</set>.</li>
+      <li>Desde la línea de salida hasta la meta, los carros deportivos son incomparables. Piensa en un deslumbrante <set>AutoDeportivo9</set> o un robusto <set>AutoDeportivo10</set>.</li>
     </random>
   </template>
 </category>
