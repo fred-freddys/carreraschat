@@ -36,23 +36,23 @@
   <pattern>auto clasico</pattern>
   <template>
     <random>
-      <li>¿Un auto clásico? ¡Excelente elección! Tal vez un elegante <set>FordClassic</set> o un icónico <set>ChevroletVintage</set>.</li>
-      <li>Los autos clásicos tienen un encanto único. Imagínate al volante de un <set>ClassicMustang</set> de Ford o un <set>BelAir</set> de Chevrolet.</li>
-      <li>Sumérgete en la nostalgia con un impresionante <set>ModelT</set> de Ford o un impecable <set>ImpalaClassic</set> de Chevrolet.</li>
-      <li>Los verdaderos conocedores eligen autos clásicos. ¿Qué te parece un <set>Thunderbird</set> de Ford o un distinguido <set>CorvetteClassic</set> de Chevrolet?</li>
-      <li>Los autos clásicos tienen historias fascinantes. Piensa en conducir un <set>FairlaneVintage</set> de Ford o un legendario <set>ClassicCamaro</set> de Chevrolet.</li>
+      <li>¿Un auto clásico? ¡Excelente elección! Tal vez un elegante FordClassic o un icónico ChevroletVintage.</li>
+      <li>Los autos clásicos tienen un encanto único. Imagínate al volante de un ClassicMustang de Ford o un BelAir de Chevrolet.</li>
+      <li>Sumérgete en la nostalgia con un impresionante ModelT de Ford o un impecable ImpalaClassic de Chevrolet.</li>
+      <li>Los verdaderos conocedores eligen autos clásicos. ¿Qué te parece un Thunderbird de Ford o un distinguido CorvetteClassic de Chevrolet?</li>
+      <li>Los autos clásicos tienen historias fascinantes. Piensa en conducir un FairlaneVintage de Ford o un legendario ClassicCamaro de Chevrolet.</li>
     </random>
   </template>
 </category>
 <category>
-  <pattern>auto deportivo</pattern>
+  <pattern>carro deportivo</pattern>
   <template>
     <random>
-      <li>¡Un carro deportivo! ¡Genial elección! ¿Qué te parece un elegante <set>AutoDeportivo1</set> o un potente <set>AutoDeportivo2</set>?</li>
-      <li>Los carros deportivos te ofrecen velocidad y estilo. Imagina estar al volante de un <set>AutoDeportivo3</set> o un emocionante <set>AutoDeportivo4</set>.</li>
-      <li>La potencia y la elegancia se unen en los carros deportivos. ¿Prefieres un clásico <set>AutoDeportivo5</set> o un moderno <set>AutoDeportivo6</set>?</li>
-      <li>Conquista la pista con un impresionante <set>AutoDeportivo7</set> o vive la emoción de la velocidad en un <set>AutoDeportivo8</set>.</li>
-      <li>Desde la línea de salida hasta la meta, los carros deportivos son incomparables. Piensa en un deslumbrante <set>AutoDeportivo9</set> o un robusto <set>AutoDeportivo10</set>.</li>
+      <li>¡Un carro deportivo! ¡Genial elección! ¿Qué te parece un elegante Ferrari o un potente LamborghiniPower?</li>
+      <li>Los carros deportivos te ofrecen velocidad y estilo. Imagina estar al volante de un MercedesSpeedster o un emocionante FerrariThrill.</li>
+      <li>La potencia y la elegancia se unen en los carros deportivos. ¿Prefieres un clásico Lamborghini o un moderno Mercedes?</li>
+      <li>Conquista la pista con un impresionante FerrariBlaze o vive la emoción de la velocidad en un Lamborghini.</li>
+      <li>Desde la línea de salida hasta la meta, los carros deportivos son incomparables. Piensa en un deslumbrante Mercedes o un robusto FerrariForce.</li>
     </random>
   </template>
 </category>
@@ -60,11 +60,11 @@
   <pattern>Formula1</pattern>
   <template>
     <random>
-      <li>¡Optaste por la élite de las carreras! Imagina pilotar un veloz <set>Formula1Car1</set> o un aerodinámico <set>Formula1Car2</set>.</li>
-      <li>Los autos de Fórmula 1 ofrecen velocidad pura. ¿Qué te parece el rendimiento de un <set>Formula1Car3</set> o la precisión de un <set>Formula1Car4</set>?</li>
-      <li>Prepárate para la velocidad extrema en un impresionante <set>Formula1Car5</set> o siente la potencia de un auténtico <set>Formula1Car6</set>.</li>
-      <li>Los autos de Fórmula 1 representan la cima del rendimiento. ¿Te gustaría conducir un legendario <set>Formula1Car7</set> o un innovador <set>Formula1Car8</set>?</li>
-      <li>Desde las curvas ajustadas hasta las rectas a alta velocidad, los autos de Fórmula 1 son incomparables. Piensa en un fascinante <set>Formula1Car9</set> o un espectacular <set>Formula1Car10</set>.</li>
+      <li>¡Optaste por la élite de las carreras! Imagina pilotar un veloz Formula1Car1 o un aerodinámico Formula1 mercedes.</li>
+      <li>Los autos de Fórmula 1 ofrecen velocidad pura. ¿Qué te parece el rendimiento de un Formula1 redbull o la precisión de un Formula1 porsche?</li>
+      <li>Prepárate para la velocidad extrema en un impresionante Formula1 o siente la potencia de un auténtico Formula1 mercedes.</li>
+      <li>Los autos de Fórmula 1 representan la cima del rendimiento. ¿Te gustaría conducir un legendario Formula1Car7 o un innovador Formula1 redbull?</li>
+      <li>Desde las curvas ajustadas hasta las rectas a alta velocidad, los autos de Fórmula 1 son incomparables. Piensa en un fascinante Formula1 mercedes o un espectacular Formula1Car10.</li>
     </random>
   </template>
 </category>
